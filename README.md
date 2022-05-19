@@ -1,3 +1,3 @@
 # description
 
-cool.
+cool!
